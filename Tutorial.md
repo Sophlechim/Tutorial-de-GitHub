@@ -6,11 +6,11 @@
 
   O repositório é o local no qual todos os arquivos de um projeto estarão armazenados, juntamente com o seu histórico de modificações. Ele pode estar disponível tanto na versão web do GitHub, quanto no seu computador - aprenderemos a fazer isso no decorrer deste tutorial. Veja a seguir os passos necessários para criá-lo.
 
-1.	Na página principal, vá até a seção destinada aos repositórios e crie um novo clicando em New;
+1.	Na página principal, vá até a seção destinada aos repositórios e crie um novo clicando em `New`;
 2.	Dê um nome ao seu repositório;
 3.	Insira uma breve descrição;
-4.	Para permitir que seu arquivo seja visualizado por qualquer pessoa, selecione a opção Public. Caso queira escolher quem poderá visualizar e realizar os commits, selecione Private;
-5.	Adicionar um arquivo README é opcional, mas recomendamos que seja feito e contenha a explicação do projeto;
-6.	O arquivo .gitignore informa quais arquivos deverão ser ignorados em um commit. Por padrão, o GitHub possui uma lista com inúmeros arquivos desse tipo para diferentes necessidades. Selecione o template que desejar;
+4.	Para permitir que seu arquivo seja visualizado por qualquer pessoa, selecione a opção `Public`. Caso queira escolher quem poderá visualizar e realizar os commits, selecione `Private`;
+5.	Adicionar um arquivo `README` é opcional, mas recomendamos que seja feito e contenha a explicação do projeto;
+6.	O arquivo `.gitignore` informa quais arquivos deverão ser ignorados em um commit. Por padrão, o GitHub possui uma lista com inúmeros arquivos desse tipo para diferentes necessidades. Selecione o template que desejar;
 7.	Caso queira, adicione uma das licenças disponíveis, ou serão aplicadas as leis padrão de copyright. Se você quer que seu código seja aberto, escolha uma licença para esse tipo;
 8.	Salve as configurações e seu repositório estará criado!
