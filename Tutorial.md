@@ -33,12 +33,12 @@
 5.	Abra e edite o arquivo que deseja alterar;
 6.	Com o arquivo alterado, insira o comando git add # (substitua o “#” pelo nome do arquivo que deseja adicionar, ou coloque um “.” caso deseje adicionar todos);
 7.	Em seguida, insira o comando “git commit -m *insira seu link*” para realizar o commit do arquivo previamente adicionado;
-8.	Por fim, utilize `git push` para atualizar as modificações também no git web;
+8.	Por fim, utilize "git push" para atualizar as modificações também no git web;
 
 ### Atualizando no clone os arquivos modificados no git web
 
-1.	Basta utilizar `git pull`;
- > **Dica:** recomenda-se utilizar o `git pull` antes de usar o `git push`, pois pode haver atualizações feitas no git web que não foram retificadas no seu computador
+1.	Basta utilizar "git pull";
+ > **Dica:** recomenda-se utilizar o "git pull" antes de usar o "git push", pois pode haver atualizações feitas no git web que não foram retificadas no seu computador
 
 ### Criando ‘forks’ de um repositório
 
