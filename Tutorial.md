@@ -38,7 +38,7 @@
 ### Atualizando no clone os arquivos modificados no git web
 
 1.	Basta utilizar `git pull`;
-**Dica:** recomenda-se utilizar o `git pull` antes de usar o `git push`, pois pode haver atualizações feitas no git web que não foram retificadas no seu computador
+ > **Dica:** recomenda-se utilizar o `git pull` antes de usar o `git push`, pois pode haver atualizações feitas no git web que não foram retificadas no seu computador
 
 ### Criando ‘forks’ de um repositório
 
@@ -49,3 +49,13 @@
 3.	Ao criar um fork, a interface do github vai pedir um nome e descrição, como se você estivesse criando um repositório do zero, no entanto, se você não inserir nada, os detalhes vão continuar como o repositório original que você está copiando;
 4.	A partir daí, é possível editar o fork como qualquer outro repositório, cloná-lo para o seu computador pessoal e atualizá-lo;
 5.	Se você quiser, pode fazer um `pull request` (um pedido ao autor do repositório original para atualizar este com as suas alterações);
+
+### Fazendo ‘pull requests’
+
+1.	No github web, acesse o repositório fork que você quer requisitar que seja agregado ao original;
+2.	Note que, ao abrir o repositório, você se encontra na aba `Code`;
+3.	Clique na aba `Pull requests`;
+4.	Selecione o botão verde `New pull request`;
+5.	Clique `Create pull request`;
+6.	Preencha os dados da descrição explicando as alterações ou deixando um comentário opcional;
+7.	Aguarde o autor do repositório original aceitar ou recusar o seu pedido;
