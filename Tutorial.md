@@ -39,3 +39,13 @@
 
 1.	Basta utilizar `git pull`;
 **Dica:** recomenda-se utilizar o `git pull` antes de usar o `git push`, pois pode haver atualizações feitas no git web que não foram retificadas no seu computador
+
+### Criando ‘forks’ de um repositório
+
+  `Fork` é uma cópia de um repositório que pode ser editada livremente sem alterar o repositório original. Essa ferramenta é comumente utilizada para propor alterações em projetos alheios aos quais você não possui acesso, mas pode ser utilizada para criar novas versões de seus próprios repositórios ou simplesmente para editar códigos que não são seus.  
+
+1.	No github web, acesse o repositório que você deseja 'forkar';
+2.	Clique no botão `Fork`;
+3.	Ao criar um fork, a interface do github vai pedir um nome e descrição, como se você estivesse criando um repositório do zero, no entanto, se você não inserir nada, os detalhes vão continuar como o repositório original que você está copiando;
+4.	A partir daí, é possível editar o fork como qualquer outro repositório, cloná-lo para o seu computador pessoal e atualizá-lo;
+5.	Se você quiser, pode fazer um `pull request` (um pedido ao autor do repositório original para atualizar este com as suas alterações);
