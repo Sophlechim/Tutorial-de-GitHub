@@ -23,3 +23,14 @@
 4.	Para ver seu histórico de commits, vá até seu repositório e clique no ícone de relógio que mostra a quantidade e commits feitos;
 5.	Clique no símbolo `<>` presente com cada commit do histórico para visualizar suas alterações;
 6.	Para editar o arquivo, basta clicar no ícone de lápis no canto direito da pasta.
+
+### Abrindo e editando um arquivo do git no computador
+
+1.	Clique com o botão direito no local em que deseja colocar o arquivo do git e vá em `Git Bash Here`;
+2.	No github web, abra seu repositório, clique no botão code e copie o link disponível na parte `HTTPS`;
+3.	No terminal do gitbash, insira o comando “git clone *insira seu link*” para clonar seu repositório na pasta escolhida;
+4.	Com o comando git status é possível verificar as modificações pendentes;
+5.	Abra e edite o arquivo que deseja alterar;
+6.	Com o arquivo alterado, insira o comando git add # (substitua o “#” pelo nome do arquivo que deseja adicionar, ou coloque um “.” caso deseje adicionar todos);
+7.	Em seguida, insira o comando “git commit -m *insira seu link*” para realizar o commit do arquivo previamente adicionado;
+8.	Por fim, utilize “git push” para atualizar as modificações também no git web;
