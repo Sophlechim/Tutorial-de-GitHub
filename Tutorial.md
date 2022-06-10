@@ -58,4 +58,4 @@
 4.	Selecione o botão verde `New pull request`;
 5.	Clique `Create pull request`;
 6.	Preencha os dados da descrição explicando as alterações ou deixando um comentário opcional;
-7.	Aguarde o autor do repositório original aceitar ou recusar o seu pedido;
+7.	Aguarde o autor do repositório original aceitar ou recusar o seu pedido.
